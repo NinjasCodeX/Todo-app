@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Todo-app",
-    "slug": "Todo-app",
+    "name": "my-redux-app",
+    "slug": "my-redux-app",
     "privacy": "public",
     "sdkVersion": "31.0.0",
     "platforms": [
